@@ -1,0 +1,1 @@
+{"name":"codedoctor-ai","version":"1.0.0","private":true,"description":"AI code review and Big-O complexity analyzer for Python, C++, and Java.","type":"module","scripts":{"start":"node server.js","dev":"node --watch server.js"},"engines":{"node":">=20"}}
